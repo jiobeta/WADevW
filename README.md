@@ -3,7 +3,6 @@
 This is the oficial starter for the workshop in the end of the #AngularWeek 2018 - Medellín.
 We cover Ionic + Test Driven Development + Progressive Web Applications
 
-- Follow me at: @sebasgojs
 - Read some of my posts in: https:www.sebastian-gomez.com
 
 ### Workshop requirements
